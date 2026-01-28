@@ -1,0 +1,1 @@
+-- Q: What is the total amount of money spent on expenses?

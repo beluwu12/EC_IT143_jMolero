@@ -1,0 +1,2 @@
+-- Q: What is the total amount of money spent on expenses?
+-- A: I need to SUM() the 'amount' column from dbo.finance_transactions_jm where the type is 'Expense'.
