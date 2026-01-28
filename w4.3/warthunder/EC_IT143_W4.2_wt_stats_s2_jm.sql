@@ -1,0 +1,2 @@
+-- Q: What is the average maximum speed of all vehicles in my dataset?
+-- A: I need to calculate the AVG() of the 'max_speed_kmh' column from dbo.wt_vehicles_data_jm.
